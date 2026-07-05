@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "baseUrl": "https://iiiiiin.sixeco.com/AIVIDEO",
+  "ips": {
+    "MAN": {
+      "label": "MAN",
+      "background": "MAN/MANWORLD.png",
+      "stages": {
+        "child": {
+          "folder": "tongnian",
+          "model": "MAN/tongnian/MANTN.glb"
+        },
+        "adult": {
+          "folder": "chengnian",
+          "model": "MAN/chengnian/MANCN.glb"
+        }
+      }
+    },
+    "GIRL": {
+      "label": "GIRL",
+      "background": "GIRL/GIRLWORLD.png",
+      "stages": {
+        "child": {
+          "folder": "tongnian",
+          "model": "GIRL/tongnian/GIRLTN.glb"
+        },
+        "adult": {
+          "folder": "chengnian",
+          "model": "GIRL/chengnian/GIRLCN.glb"
+        }
+      }
+    },
+    "YAOGUAI": {
+      "label": "YAOGUAI",
+      "background": "YAOGUAI/YAOGUAIWORLD.png",
+      "stages": {
+        "child": {
+          "folder": "tongnian",
+          "model": "YAOGUAI/tongnian/YAOGUAITN.glb"
+        },
+        "adult": {
+          "folder": "chengnian",
+          "model": "YAOGUAI/chengnian/YAOGUAICN.glb"
+        }
+      }
+    }
+  }
+}
